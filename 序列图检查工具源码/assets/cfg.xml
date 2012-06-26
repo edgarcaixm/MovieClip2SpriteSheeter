@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<cfg>
+	<imgSrc>assets/bigmap.png</imgSrc>
+	<maxWid>173</maxWid>
+	<maxHei>157</maxHei>
+</cfg>
